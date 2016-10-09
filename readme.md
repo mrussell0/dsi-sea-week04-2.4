@@ -31,7 +31,6 @@ Using the [wine quality dataset](https://s3.amazonaws.com/demo-datasets/wine.csv
 #### Starter code
 - Python [Starter Code](./code/starter-code/week4-2.4-starter.ipynb)
 
-> [Solution code is here!](./code/solution-code/week4-2.4-)
 
 #### Deliverable
 
